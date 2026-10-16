@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
+<symbol id="arrow-up-right" viewBox="0 0 24 24"><path d="M5 19 19 5M5 5h14v14"/></symbol>
+<symbol id="arrow-down-right" viewBox="0 0 24 24"><path d="m5 5 14 14M5 19h14V5"/></symbol>
+<symbol id="arrow-right" viewBox="0 0 24 24"><path d="M4 12h16m-6-6 6 6-6 6"/></symbol>
+<symbol id="arrow-left" viewBox="0 0 24 24"><path d="M20 12H4m6 6-6-6 6-6"/></symbol>
+<symbol id="layers" viewBox="0 0 24 24"><path d="m3 8 9-5 9 5-9 5-9-5Zm0 5 9 5 9-5M3 18l9 5 9-5"/></symbol>
+</svg>
